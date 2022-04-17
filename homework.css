@@ -1,0 +1,51 @@
+#bg{
+  background-image: url('watercolor.jpeg.jpg');
+  background-repeat: repeat;
+  padding: 15px;
+}
+h1{
+  font-size:45px;
+  font-weight:600;
+  text-align: left;
+  font-family: Helvetica;
+  text-shadow: 5px 5px 5px #E07082;
+}
+#container1{
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+#container2{
+  margin-top: 120px;
+  margin-left: 100px;
+  margin-right: 100px;
+border: groove 5px #FFF9EC;
+padding:40px;
+text-align: center;
+width:1000px;
+}
+#parada{
+  text-align: center;
+  color: #68797B;
+  font-family: Helvetica;
+  border:2px solid #a1a1a1;
+  padding:10px 40px;
+  background:#dddddd;
+  width:700px;
+  border-radius:25px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  background-color: #FFF9EC;
+  color: #5D7B6F;
+}
+button{
+  background-color: #fcd941;
+  font-size: 30px;
+  border-radius: 20px;
+  border: 2px solid #79976B;
+  width: 110px;
+
+}

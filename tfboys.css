@@ -1,0 +1,66 @@
+#title123{
+  font-stretch:extra-expanded;
+  text-color
+}
+#carouselExampleCaptions{
+  margin-top:100px;
+	margin-bottom:100px;
+	margin-right:50px;
+	margin-left:50px;
+}
+#不完全大事纪{
+  background-image:url("image/watercolor.jpg");
+  margin-top:100px;
+padding-top:25px;
+padding-bottom:25px;
+padding-right:100px;
+padding-left:100px;
+
+}
+#土豆成长纪{
+background-image: url("image/colorful.png");
+background-repeat:no-repeat;
+background-repeat: repeat;
+  margin-top:100px;
+	margin-bottom:100px;
+
+padding-right:50px;
+padding-left:50px;
+}
+#碎碎碎念{
+  color:   	#282828;
+  background-image: url("image/watercolor.jpg");
+  background-repeat: repeat;
+  padding: 15px;
+}
+#我们的演唱会{
+  background-image: url("image/watercolor.jpg");
+  background-repeat: repeat;
+  padding: 15px;
+}
+#cardpc1{
+  color: #909090;
+  font-weight:lighter;
+  text-decoration:underline;
+  font-family:Arial,Helvetica,sans-serif;
+  font-style:italic;
+}
+#rcorners{
+  width: 300px;
+  height: 500px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#rcorners1{
+  width: 300px;
+  height: 420px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#短句{
+  padding: 120px 0;
+  font-style:italic;
+
+}
+#deo{
+  max-width: 100%;
+    height: auto;
+}
